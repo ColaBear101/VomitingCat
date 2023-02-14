@@ -1,5 +1,7 @@
-# เครื่องอ้วกอาหารแมว (English Readme.md is below)
+# เครื่องอ้วกอาหารแมว (VomitingCat)
 * ส่วนหนึ่งของวิชา ว30262 ออกแบบเทคโนโลยี *
+* This is part of the course "ว30262 - Designing Technology Subject". *  
+* (English Readme.md is below)
 
 # วิธีการติดตั้งโปรแกรมเพื่อตั้งค่า Wi-Fi ใน Board ESP-32 devkit
 1. ดาวน์โหลด Arduino IDE จากเว็บไซต์ของ Arduino โดยไปที่ https://www.arduino.cc/en/software และเลือกเวอร์ชันที่ต้องการติดตั้ง (Windows, Mac, หรือ Linux)
@@ -23,11 +25,7 @@
  1. เปลี่ยนค่าตัวแปร (ใน บรรทัดที่ 10 และ 11)
     เช่น char ssid[] = "BJ_WIFI";
         char pass[] = "123123123";
-        
-     
-     
-  
-* This is part of the course "ว30262 - Designing Technology Subject". * 
+                
 
 # How to install the program for configuring Wi-Fi on the ESP-32 devkit board
 1.  Download the Arduino IDE from the Arduino website by going to https://www.arduino.cc/en/software and selecting the desired version to install (Windows, Mac, or Linux).

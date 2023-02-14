@@ -24,29 +24,4 @@
     เช่น char ssid[] = "BJ_WIFI";
         char pass[] = "123123123";
         
-        
-# VomitingCat
-This is part of the course "ว30262 - Designing Technology".
-
-# How to install the program for configuring Wi-Fi on the ESP-32 devkit board
-1.  Download the Arduino IDE from the Arduino website by going to https://www.arduino.cc/en/software and selecting the desired version to install (Windows, Mac, or Linux).
-
-2.  Install the Arduino IDE by double-clicking on the downloaded file and following the installation steps displayed on the installation window.
-
-3.  After installation, install the board and library by using the following links:
-      board: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-      library: https://anonfiles.com/p265R2X2ye/libraries_zip
-
-4.  Open the file and try uploading.
-
-# How to configure Wi-Fi
-  1. Change the variable values (in lines 10 and 11).
-  For example, char ssid[] = "BJ_WIFI";
-               char pass[] = "123123123";
-
-# Controlling the Blynk.io application
-  1. Download the application from the AppStore or PlayStore.
-  2. Register and log in.
-  3. Create a project and replace BLYNK_TEMPLATE_ID, BLYNK_TEMPLATE_NAME, and BLYNK_AUTH_TOKEN with the values provided by the application in lines 1, 2, and 3 of the code.
-Create a datastream value of 0-1 in the V0 field.
-Try pressing the button after connecting to the device.        
+     

@@ -27,8 +27,7 @@
      
      
   
-# VomitingCat
-This is part of the course "ว30262 - Designing Technology".
+* This is part of the course "ว30262 - Designing Technology Subject". * 
 
 # How to install the program for configuring Wi-Fi on the ESP-32 devkit board
 1.  Download the Arduino IDE from the Arduino website by going to https://www.arduino.cc/en/software and selecting the desired version to install (Windows, Mac, or Linux).

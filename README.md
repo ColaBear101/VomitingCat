@@ -17,8 +17,8 @@
 # การควบคุมการแอปพลิเคชั่น Blnk.io
 1. ดาวน์โหลดแอปพลิเคชั่นจาก AppStore หรือ PlayStore
 2. สมัครและลงชื่อเข้าใช้
-3. สร้าง Project หา และ เปลี่ยน BLYNK_TEMPLATE_ID BLYNK_TEMPLATE_NAME BLYNK_AUTH_TOKEN ตามที่แอปพลิเคชั่นให้มาลงในโค้ดบรรทัดที่ 1 2 และ 3ง
-4. สร้าง Datastream ค่า 0 - 1 ในช่อง V0
+3. สร้าง Project หา และ เปลี่ยน BLYNK_TEMPLATE_ID BLYNK_TEMPLATE_NAME BLYNK_AUTH_TOKEN ตามที่แอปพลิเคชั่นให้มา แก้ไขลงในโค้ดบรรทัดที่ 1 2 และ 3
+4. สร้าง Datastream ในช่อง V0 เป็นค่า 0 ถึงค่า 1
 5. ทดลองกดปุ่ม หลังจากเชื่อมต่อกับเครื่อง
 
 # วิธีการตั้งค่า Wi-Fi
